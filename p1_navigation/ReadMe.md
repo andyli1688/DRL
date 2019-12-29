@@ -1,7 +1,7 @@
 ## Project Details
 
 For this project, we will train an agent to navigate (and collect bananas!) in a large, square world.
-![SegmentLocal](banana_project.gif "segment")
+![SegmentLocal](images/banana_project.gif "segment")
 
 A reward of +1 is provided for collecting a `yellow` banana, and a reward of -1 is provided for collecting a `blue` banana. Thus, the goal of the agent is to collect as many yellow bananas as possible while avoiding blue bananas.
 
@@ -70,7 +70,7 @@ jupyter notebook
 
 
 3. Before running code in the notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
-![SegmentLocal](Kernel.png "segment")
+![SegmentLocal](images/kernel.png)
 
 
 4. Use 'Shift-Enter' to run codes line by line and watch how the agent gets trained!
